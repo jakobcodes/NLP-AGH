@@ -2,3 +2,10 @@
 *.pdf
 *.html
 *.html
+
+.ipynb_checkpoints/
+
+classification/data/raw
+classification/model
+classification/results
+classification/tokenizer
